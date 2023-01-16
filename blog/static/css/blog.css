@@ -1,0 +1,47 @@
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.content {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+
+
+}
+
+.page-header h1 {
+    text-align: center;
+}
+
+.page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    text-decoration: none;
+    color: black;
+}
+
+
+.page-header{
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+body{
+
+    background-image: url('train.png');
+}
